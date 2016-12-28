@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>alexandru.elisei@gmail.com</email>
+	</maintainer>
+	<longdescription lang="en">
+		Glimpse is a widget for the x11-wm/awesome Window Manager. The widget
+		will periodically fetch unseen emails and display a notification with
+		new emails. A statusbar textbox widget is also available which will
+		display the number of unread emails in each account.
+	</longdescription>
+	<use>
+		<flag name="examples">Install example configuration file for an email account.</flag>
+	</use>
+</pkgmetadata>
